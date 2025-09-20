@@ -11,3 +11,7 @@ Answer: This could be applied to the musical theater field. For example, Broadwa
 Q3: What is the difference between Merging and Rebasing?
 
 Answer: Rebase allows you to update your branch without removing uncommitted changes.
+
+Q4: What are you looking forward to this semester?
+
+Answer: My extracurricular activities.
