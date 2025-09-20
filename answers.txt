@@ -1,3 +1,8 @@
+
 Q1: Why might we consider using Git?
 
 Answer: to work on collaborative projects in software development teams
+
+Q2: What field could data science be applied to? Give an Example.
+
+Answer: This could be applied to the musical theater field. For example, Broadway may look at the data of their box office sales for the different shows to see which shows are doing well/what audiences they attract.
